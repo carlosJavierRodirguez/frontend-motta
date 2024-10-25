@@ -175,7 +175,9 @@ footer p {
   .card-img-top {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    max-height: 400px;
+    max-height: 480px;
+    overflow-y: auto;
+    overflow-x: auto;
     max-width: 500px;
     height: auto;
     width: auto;
